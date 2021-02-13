@@ -1,0 +1,39 @@
+#row{
+    background-color: rgb(255, 213, 25);
+    height: 87%;
+    display: flex;
+    clear: both;
+}
+body{
+    margin: 0;
+}
+#s1{
+    width: 40%;
+    float: left;
+    background-image: url("C:\Users\Ruchi Patel\Downloads\portfolio\Ruchi Graduation.jpg");
+}
+#s2{
+    width: 60%;
+    float: left;
+    padding: 200px;
+}
+img{
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+}
+#about{
+    margin: auto;
+    padding: 100px;
+}
+#skills{
+    padding: 100px;
+    background-color: rgb(246, 238, 128);
+}
+#contact{
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 60px;
+    margin: auto;
+}
