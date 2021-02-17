@@ -92,3 +92,6 @@ img:hover{
     flex-grow: 1;
     margin: 20px;
 }
+#about_h1{
+    text-align: center;
+}
